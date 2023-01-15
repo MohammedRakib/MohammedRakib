@@ -9,8 +9,9 @@
 <div align="center" title="Who am I?"> 
 <!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Mohammed+Rakib;ML+Engineer⚡;AI+Enthusiast🥑;Exploring+DevOps💥)](https://git.io/typing-svg) -->
 
-  
+ <h3 align="center">
  I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. I strive to solve real-world problems leveraging AI.
+</h3>
 </div>
 <hr>
 
