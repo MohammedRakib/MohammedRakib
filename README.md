@@ -41,7 +41,7 @@
 <img align="left" alt="img" width="480px" src="https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF) -->
 
-<br>
+<br/>
 
  
 <h3 align="center"> Watch my contribution graph get eaten by a snake! 🐍 </h3>
