@@ -45,12 +45,11 @@
  
 </div>
 
+//
 
 <div align='center'>
 
-<br/><br/>
- 
-<h3 align="center" style="margin: 10px 0;"> Watch my contribution graph get eaten by a snake! 🐍 </h3> 
+<h3 align="center"> Watch my contribution graph get eaten by a snake! 🐍 </h3> 
 <img align="center" alt="img" src="https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg">
 <!-- ![Rakib's Snake gif](https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg) -->
 
