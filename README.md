@@ -36,8 +36,9 @@
 
 <img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&border_radius=10&mode=weekly)](https://git.io/streak-stats)
-
+<img align="left" alt="streak-stats" width="390px" src="https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&border_radius=10&mode=weekly">
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&border_radius=10&mode=weekly)](https://git.io/streak-stats) -->
+<!-- <img align="right" alt="img" width="390px" src="./giphy.gif"> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="a-abdellatif98" /></p> -->
