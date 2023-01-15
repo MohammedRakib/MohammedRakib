@@ -7,7 +7,7 @@
 <img width="400px" src="./giphy.gif" />
 </div> -->
 
- &nbsp;  &nbsp;  &nbsp;  &nbsp; <img align="right" alt="img" width="400px" src="./giphy.gif"> &nbsp;
+<img align="right" alt="img" width="400px" src="./giphy.gif">
 
 <h3 align="left"> About Myself </h3>
 
@@ -20,8 +20,8 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/mohammedrakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedrakib" height="30" width="40" /></a>
 <a href="https://twitter.com/MdRakib1080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MdRakib1080" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohammed1rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed1rakib" height="30" width="40" /></a>
