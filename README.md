@@ -36,10 +36,10 @@
 <img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
 
 
-<img align="right" alt="streak-stats" width="490px" src="https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&mode=weekly">
+<img align="right" alt="streak-stats" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&mode=weekly">
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats) -->
 
-<img align="left" alt="img" width="490px" src="https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF">
+<img align="left" alt="img" width="480px" src="https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF) -->
  
 
