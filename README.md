@@ -4,10 +4,12 @@
 
 <div align="center" title="Who am I?"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Mohammed+Rakib;An+AI+Enthusiast💥)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?
+ font=edo&size=30&duration=3000&color=00F421&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Mohammed+Rakib;An+AI+Enthusiast💥)](https://git.io/typing-svg)
+
 <!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Mohammed+Rakib;ML+Engineer⚡;AI+Enthusiast🥑;Exploring+DevOps💥)](https://git.io/typing-svg) -->
 
+  
  I have research and professional expertise in machine learning and deep learning and have worked on a variety of projects in this field. My research interests include computer vision, natural language processing, and model compression techniques like knowledge distillation and pruning. I received my bachelor's degree in CSE from North South University, and my primary focus is on applying AI to solve real-world problems.
   
 </div>
