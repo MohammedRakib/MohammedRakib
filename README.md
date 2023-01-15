@@ -44,8 +44,6 @@
 <img align="left" alt="img" width="480px" src="https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF) -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="a-abdellatif98" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-abdellatif98&" alt="a-abdellatif98" /></p> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRakib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 
