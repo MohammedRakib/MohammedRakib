@@ -2,7 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Hi%2C+%F0%9F%91%8B+I'm+Mohammed+Rakib.;An+AI+Enthusiast%F0%9F%92%A5" alt="Typing SVG" /></a>
 <!--  Website to make changes: https://readme-typing-svg.demolab.com/demo/ -->
 </h1>
-<a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" /></a>
 
 <!-- <div align='center'>
 <img width="400px" src="./giphy.gif" />
