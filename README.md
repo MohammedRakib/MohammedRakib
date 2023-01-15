@@ -7,7 +7,7 @@
 <img width="400px" src="./giphy.gif" />
 </div> -->
 
-<img align="right" alt="img" width="400px" src="./giphy.gif">
+<img align="right" alt="img" width="500px" src="./giphy.gif">
 
 <h2 align="left"> About Myself </h2>
 
