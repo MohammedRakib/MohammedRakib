@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohammed Rakib</h1>
-<h3 align="center">An AI Enthusiast</h3>
-<img align="right" alt="img" width="400px" src="./giphy.gif" />
+![Rakib's GitHub Banner](./giphy.gif)
 
--💥 I have research and professional expertise in machine learning and deep learning and have worked on a variety of projects in this field. My research interests include computer vision, natural language processing, and model compression techniques like knowledge distillation and pruning. I received my bachelor's degree in CSE from North South University, and my primary focus is on applying AI to solve real-world problems.
+<div align="center" title="Who am I?"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Mohammed+Rakib;AI+Enthusiast💥)](https://git.io/typing-svg)
+ 
+<!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Mohammed+Rakib;ML+Engineer⚡;AI+Enthusiast🥑;Exploring+DevOps💥)](https://git.io/typing-svg) -->
 
-- 📫 How to reach me **rafz.rakib@gmail.com**
+ I have research and professional expertise in machine learning and deep learning and have worked on a variety of projects in this field. My research interests include computer vision, natural language processing, and model compression techniques like knowledge distillation and pruning. I received my bachelor's degree in CSE from North South University, and my primary focus is on applying AI to solve real-world problems.
+  
+</div>
 
-- 📄 Know about my experiences [CV](https://www.linkedin.com/in/mohammedrakib/overlay/1635512186589/single-media-viewer/?profileId=ACoAACqKT1UBT4V83L2VXtmbApEWnPyz0TIuboU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
