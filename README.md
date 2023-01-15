@@ -10,8 +10,7 @@
 <!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Mohammed+Rakib;ML+Engineer⚡;AI+Enthusiast🥑;Exploring+DevOps💥)](https://git.io/typing-svg) -->
 
   
- I have research and professional expertise in machine learning and deep learning and have worked on a variety of projects in this field. My research interests include computer vision, natural language processing, and model compression techniques like knowledge distillation and pruning. I received my bachelor's degree in CSE from North South University, and my primary focus is on applying AI to solve real-world problems.
-  
+ I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. I strive to solve real-world problems leveraging AI.
 </div>
 <hr>
 
