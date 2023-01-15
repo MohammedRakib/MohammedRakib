@@ -36,6 +36,8 @@
 
 <img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&include_all_commits=true&hide_border=true&theme=jolly&border_radius=30&line_height=28&icon_color=68f8f1&count_private=true" align="left" height="220em" alt="atharv115" /></a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="a-abdellatif98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-abdellatif98&" alt="a-abdellatif98" /></p>
