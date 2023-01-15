@@ -38,7 +38,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="a-abdellatif98" /></p> -->
 
