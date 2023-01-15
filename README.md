@@ -13,11 +13,11 @@
 - My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. 
 - I strive to solve real-world problems leveraging AI.
  
-<h2 align="center"> About Myself </h2>
+<!-- <h2 align="center"> About Myself </h2>
 <p align="center">
 
 </p>
-
+ -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammedrakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedrakib" height="30" width="40" /></a>
