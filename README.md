@@ -27,8 +27,8 @@
 
 <h2 align="left">Read My Publications:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammedrakib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedrakib" height="30" width="40" /></a>
-<a href="https://twitter.com/MdRakib1080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MdRakib1080" height="30" width="40" /></a>
+<a href="[Google Scholar](https://scholar.google.com/citations?hl=en&user=0EUEx3EAAAAJ)" target="blank"><img align="center" src="./scholar.png" alt="Mohammed Rakib" height="30" width="40" /></a>
+<a href="[Research Gate](https://www.researchgate.net/profile/Mohammed-Rakib)" target="blank"><img align="center" src="./researchgate.png" alt="Mohammed-Rakib" height="30" width="40"/></a>
 </p>
 
 <h2 align="left">Languages & Tools:</h3>
