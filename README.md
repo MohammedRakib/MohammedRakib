@@ -13,7 +13,7 @@
  I have research and professional expertise in machine learning and deep learning and have worked on a variety of projects in this field. My research interests include computer vision, natural language processing, and model compression techniques like knowledge distillation and pruning. I received my bachelor's degree in CSE from North South University, and my primary focus is on applying AI to solve real-world problems.
   
 </div>
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
