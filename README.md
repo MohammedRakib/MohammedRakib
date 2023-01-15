@@ -50,5 +50,5 @@
 <!-- ![Rakib's Snake gif](https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
-<h3 align="center"> Watch my contribution graph get eaten by a snake! 🐍 </h3>  
+<h3 align="center"> Watch my contributions get eaten by a snake! 🐍 </h3>  
 
