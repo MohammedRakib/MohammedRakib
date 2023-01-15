@@ -1,4 +1,6 @@
-![Rakib's GitHub Banner](./giphy.gif)
+<div align='center'>
+  <img width="600px" src="./giphy.gif" />
+</div>
 
 <div align="center" title="Who am I?"> 
   
