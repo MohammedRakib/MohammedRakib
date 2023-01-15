@@ -7,17 +7,14 @@
 <img width="400px" src="./giphy.gif" />
 </div>
 
-<div align="center" title="Who am I?"> 
- 
- <h2 align="left"> About Myself 
-  
-  <p align="left">
-   I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. I strive to solve real-world problems leveraging AI.
-  </p>
- 
- </h2>
 
-</div>
+ 
+<h2 align="left"> About Myself </h2>
+<p align="left">
+I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. I strive to solve real-world problems leveraging AI.
+</p>
+
+
 
  <h2 align="left">Connect with me:</h2>
   <p align="left">
