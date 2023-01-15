@@ -46,18 +46,8 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-<h3 align="center"> Watch my contribution graph get eaten by a snake! 🐍 </h3>
-
 <div align='center'>
+<h3 align="center"> Watch my contribution graph get eaten by a snake! 🐍 </h3> 
 <img align="center" alt="img" src="https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg">
 <!-- ![Rakib's Snake gif](https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg) -->
 </div>
