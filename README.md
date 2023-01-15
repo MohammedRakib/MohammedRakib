@@ -9,7 +9,7 @@
 
 <img align="right" alt="img" width="400px" src="./giphy.gif" />
 
-<h2 align="center"> About Myself </h2>
+<div align="left"> About Myself </div>
 
 - I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. 
 
