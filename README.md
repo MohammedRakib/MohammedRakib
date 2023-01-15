@@ -44,7 +44,7 @@
 <br>
 
  
- ### Watch my contribution graph get eaten by the snake 🐍
+<h3 align="center"> Watch my contribution graph get eaten by a snake! 🐍 </h3>
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg)
