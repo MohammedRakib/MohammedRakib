@@ -35,18 +35,20 @@
 
 <img src="https://github.com/donspablo/donspablo/blob/main/assets/Wave_2400.gif"/>
 
+<div align="center">
+ 
 <img align="right" alt="streak-stats" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&mode=weekly">
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohammedRakib&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats) -->
 
 <img align="left" alt="img" width="480px" src="https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent&count_private=true&title_color=FFFFFF&text_color=0294F9&icon_color=FFFFFF) -->
-
-<br/>
-
  
+</div>
+
+<br>
 <h3 align="center"> Watch my contribution graph get eaten by a snake! 🐍 </h3>
 
 <img align="center" alt="img" src="https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg">
-<!-- ![mishmanners snake gif](https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Rakib's Snake gif](https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg) -->
  
 
