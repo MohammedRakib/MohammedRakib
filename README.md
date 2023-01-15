@@ -1,11 +1,14 @@
-<div align="center">
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Hi%2C+%F0%9F%91%8B+I'm+Mohammed+Rakib.;An+AI+Enthusiast%F0%9F%92%A5" alt="Typing SVG" /></a>
 <!--  Website to make changes: https://readme-typing-svg.demolab.com/demo/ -->
-</div>
+</h1>
+<a href="https://app.daily.dev/atharvgolam115"><img src="https://github.com/Atharv115/Atharv115/blob/main/devcard.svg"  align="right" width="285" alt="Atharv Golam's Dev Card" /></a>
 
-<div align='center'>
+<!-- <div align='center'>
 <img width="400px" src="./giphy.gif" />
-</div>
+</div> -->
+
+<img align="right" alt="img" width="400px" src="./giphy.gif" />
 
 - I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. 
 - My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. 
