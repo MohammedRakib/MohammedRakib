@@ -7,9 +7,9 @@
 <img width="400px" src="./giphy.gif" />
 </div> -->
 
-<img align="right" alt="img" width="390px" src="./giphy.gif">
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammedRakib)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammedRakib)
+<img align="right" alt="img" width="400px" src="./giphy.gif">
 
 <h2 align="left"> About Myself </h2>
 
