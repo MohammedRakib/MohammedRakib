@@ -42,8 +42,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRakib&show_icons=true&theme=transparent)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="a-abdellatif98" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="a-abdellatif98" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-abdellatif98&" alt="a-abdellatif98" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-abdellatif98&" alt="a-abdellatif98" /></p> -->
  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=a-abdellatif98.a-abdellatif98)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammedRakib)
