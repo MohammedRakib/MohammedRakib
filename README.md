@@ -1,6 +1,6 @@
-<div align='center'>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Mohammed+Rakib;An+AI+Enthusiast💥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+%F0%9F%91%8B+I'm+Mohammed+Rakib.;An+AI+Enthusiast%F0%9F%92%A5)](https://git.io/typing-svg)
 
+<div align='center'>
 <img width="400px" src="./giphy.gif" />
 </div>
 
