@@ -11,7 +11,9 @@
  
 <h2 align="center"> About Myself </h2>
 <p align="center">
-I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. I strive to solve real-world problems leveraging AI.
+- I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. 
+- My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. 
+- I strive to solve real-world problems leveraging AI.
 </p>
 
 <h3 align="center">Connect with me:</h3>
