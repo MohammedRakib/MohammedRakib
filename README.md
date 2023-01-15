@@ -1,5 +1,6 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+%F0%9F%91%8B+I'm+Mohammed+Rakib.;An+AI+Enthusiast%F0%9F%92%A5" alt="Typing SVG" /></a>
+<!--  Website to make changes: https://readme-typing-svg.demolab.com/demo/ -->
 </div>
 
 <div align='center'>
@@ -7,13 +8,16 @@
 </div>
 
 <div align="center" title="Who am I?"> 
-<!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Mohammed+Rakib;ML+Engineer⚡;AI+Enthusiast🥑;Exploring+DevOps💥)](https://git.io/typing-svg) -->
+ 
+ <h3 align="left"> About Myself </h3>
+  
+  <p align="left">
+   I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. I strive to solve real-world problems leveraging AI.
+  </p>
+ 
+ </h3>
 
- <h3 align="center">
- I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. My research interests include Computer Vision (CV), Natural Language Processing (NLP), and Model Compression techniques like Knowledge Distillation (KD) & Pruning. I strive to solve real-world problems leveraging AI.
-</h3>
 </div>
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
