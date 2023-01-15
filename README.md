@@ -9,6 +9,8 @@
 
 <img align="right" alt="img" width="390px" src="./giphy.gif">
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammedRakib)
+
 <h2 align="left"> About Myself </h2>
 
 - I have research and professional expertise in Machine Learning (ML) & Deep Learning (DL) and have worked on a variety of projects in this field. 
@@ -46,4 +48,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-abdellatif98&" alt="a-abdellatif98" /></p> -->
  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohammedRakib)
+
