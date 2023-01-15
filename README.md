@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rakib</h1>
 <h3 align="center">An AI Enthusiast</h3>
-<img align="right" alt="img" width="400px" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" />
+<img align="right" alt="img" width="400px" src="./giphy.gif" />
 
 -💥 I have research and professional expertise in machine learning and deep learning and have worked on a variety of projects in this field. My research interests include computer vision, natural language processing, and model compression techniques like knowledge distillation and pruning. I received my bachelor's degree in CSE from North South University, and my primary focus is on applying AI to solve real-world problems.
 
