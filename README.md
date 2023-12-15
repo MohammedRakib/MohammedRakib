@@ -48,9 +48,9 @@
 
 <div align="center">
 
-<img align="center" alt="img" src="https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg">
+<!-- <img align="center" alt="img" src="https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg"> -->
 <!-- ![Rakib's Snake gif](https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg) -->
-<!-- ![Snake animation](https://github.com/{{your_username}}/MohammedRakib/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/MohammedRakib/MohammedRakib/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 <h3 align="center"> Watch my contributions get eaten by a snake! 🐍 </h3>  
